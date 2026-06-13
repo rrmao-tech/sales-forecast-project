@@ -1,6 +1,17 @@
+````markdown
 # 📊 Sales Forecast & Business Insight Analysis
 
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-orange)
+![Matplotlib](https://img.shields.io/badge/Visualization-Matplotlib-green)
+
+---
+
+## 🎥 Project Preview
+
 ![Sales Forecast](assets/sales_forecast.png)
+
+👉 A time-series sales forecasting project using Python to generate actionable business insights.
 
 ---
 
@@ -13,7 +24,7 @@ This project simulates a real-world business scenario where a data analyst is re
 - Delivering short-term forecasts  
 - Supporting data-driven decision-making  
 
-Using Python, I analyzed time-series sales data and developed a simple forecasting model to uncover trends and highlight growth opportunities.
+Using Python, I analyzed time-series sales data and developed a forecasting model to uncover trends and highlight growth opportunities.
 
 ---
 
@@ -46,6 +57,14 @@ I developed a lightweight analytics workflow that:
 - A temporary drop in performance is observed mid-period  
 - The forecast suggests continued recovery and growth  
 - A clear sales growth opportunity is identified at the end of the timeline  
+
+---
+
+## 📌 Business Recommendations
+
+- Increase inventory planning toward the end of the period  
+- Monitor mid-period dips for potential operational risks  
+- Use short-term forecasts to guide weekly sales strategy  
 
 ---
 
@@ -120,9 +139,17 @@ This project demonstrates how data analysis can:
 
 ---
 
+## 📬 Contact
+
+If you're hiring for a Data Analyst role or would like to collaborate:
+
+* GitHub: [https://github.com/rrmao-tech](https://github.com/rrmao-tech)
+* LinkedIn: (add your LinkedIn here)
+
+---
+
 ## 👤 Author
 
-**PRMAO**
+**PR**
 Aspiring Data Analyst
 Python | Power BI | Data Storytelling
-
